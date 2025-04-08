@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:60395",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net-Core-API\\Day_01\\Day_01.Server\\..\\day_01.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

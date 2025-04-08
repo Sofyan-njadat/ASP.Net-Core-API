@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "ob9SBJkUJ00jFG1XS25NXwO+FKenYN2gm+hsiLdbaq4=",
+  "Source": "Day_01.Server",
+  "BasePath": "_content/Day_01.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net-Core-API\\Day_01\\day_01.client\\day_01.client.esproj",
+      "Version": 2,
+      "Source": "day_01.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
